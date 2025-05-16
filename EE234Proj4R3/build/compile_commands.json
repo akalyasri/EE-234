@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/akaly/workplace2/EE234Proj4R3/build",
+  "command": "C:\\Xilinix2\\Vitis\\2024.2\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe  -O2 -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=C:/Users/akaly/workplace2/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -IC:/Users/akaly/workplace2/platform/export/platform/sw/standalone_ps7_cortexa9_0/include \"-D__FILENAME__='__FILE__'\" -o CMakeFiles\\EE234Proj4R3.elf.dir\\C_\\Users\\akaly\\workplace2\\EE234Proj4R3\\PROJ1.S.obj -c C:\\Users\\akaly\\workplace2\\EE234Proj4R3\\PROJ1.S",
+  "file": "C:\\Users\\akaly\\workplace2\\EE234Proj4R3\\PROJ1.S"
+}
+]
