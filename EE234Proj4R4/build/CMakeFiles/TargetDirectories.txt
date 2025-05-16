@@ -1,0 +1,3 @@
+C:/Users/akaly/workplace2/EE234Proj4R4/build/CMakeFiles/EE234Proj4R4.elf.dir
+C:/Users/akaly/workplace2/EE234Proj4R4/build/CMakeFiles/edit_cache.dir
+C:/Users/akaly/workplace2/EE234Proj4R4/build/CMakeFiles/rebuild_cache.dir
